@@ -1,0 +1,11 @@
+{
+  "name": "tvshows-scraper",
+  "version": "1.0.0",
+  "description": "tv shows scraper",
+  "main": "server.js",
+  "author": "Suhel Tanveer",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
